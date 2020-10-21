@@ -23,7 +23,7 @@
     "LICENSE"
   ],
   "engines": {
-    "node": ">=7.10.1"
+    "node": ">=10"
   },
   "author": "Schmoopiie",
   "scripts": {
